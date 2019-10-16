@@ -1,0 +1,22 @@
+
+.title{
+  text-align: center;
+}
+
+.container{
+  width:95%;
+  margin:auto;
+  text-align: center;
+}
+
+.small{
+  width:45%;
+}
+
+.big{
+  width:90%;
+}
+
+h1{
+  font-size: 3vw;
+}
