@@ -20,3 +20,10 @@
 h1{
   font-size: 3vw;
 }
+
+.expanded{
+  width:98%;
+  position:fixed;
+  top:1%;
+  left:1%;
+}
